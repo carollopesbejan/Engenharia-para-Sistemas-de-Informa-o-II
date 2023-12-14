@@ -11,5 +11,5 @@ Devido à grande diversidade e quantidade de faixas musicais presentes no Spotif
 ## 📌 Visualização do projeto:
 
 <p align="center">
-  <img height="500em" src="/project_boxvinil/assets/images/visualizacao.gif">
+  <img height="500em" src="/box_vinil/assets/images/visualizacao.gif">
 </p>
