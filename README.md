@@ -8,7 +8,7 @@ Devido à grande diversidade e quantidade de faixas musicais presentes no Spotif
 ## 📌 Atividades desenvolvidas:
 
 
-### 📌 Visualização do projeto:
+## 📌 Visualização do projeto:
 
 <p align="center">
   <img height="500em" src="/project_boxvinil/assets/images/visualizacao.gif">
