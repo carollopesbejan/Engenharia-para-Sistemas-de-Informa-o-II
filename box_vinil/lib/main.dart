@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './paginas/cadastro.dart';
+import './paginas/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: const Color.fromARGB(255, 24, 24, 24),
         fontFamily: 'Roboto',
       ),
-      home: const TelaCadastro(),
+      home: const TelaHome(),
     );
   }
 }
