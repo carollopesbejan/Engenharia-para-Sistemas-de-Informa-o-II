@@ -1,6 +1,6 @@
 {
-    "name": "box_vinil",
-    "short_name": "box_vinil",
+    "name": "boxvinil",
+    "short_name": "boxvinil",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

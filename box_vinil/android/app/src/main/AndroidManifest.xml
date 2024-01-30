@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="box_vinil"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.boxvinil">
+   <application
+        android:label="boxvinil"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
