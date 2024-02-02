@@ -8,7 +8,7 @@ Devido à grande diversidade e quantidade de faixas musicais presentes no Spotif
 ## 📌 Atividades desenvolvidas:
 - [Mapa Mental (Versão Inicial)](https://drive.google.com/file/d/1r559QkWq2luQ-_usP3SXrUbOjIKkZDuf/view?usp=drive_link)
 - [Mapa Mental (Versão Digital)](https://drive.google.com/file/d/1Q4RgKr7R1-tXT4Oq-rjwTjRZiMAFa_aa/view?usp=drive_link)
-- [Protótipo de Baixa Fidelidade]
+- [Protótipo de Baixa Fidelidade](https://drive.google.com/file/d/1rDUfvH3q3t-V8gellDc4clBJo8lsBHu6/view?usp=sharing)
 - [Protótipo de Média Fidelidade](https://www.figma.com/proto/q2tWNZAUsiGQlP3ew1BiR6/mediaFidelidade---GIlberto?node-id=1-300&mode=design&t=WuQGKvpS4rK1Mwno-1)
 - [Especificação das Funcionalidades do Sistema](https://drive.google.com/file/d/1rXeZJBKtncq7V44haQrdjhIC4gY3yowm/view?usp=drive_link)
 - [Diagrama de Sequência](https://drive.google.com/file/d/1j15QaAU1hwOpF4Jn63hD-7gZP5g4pThX/view?usp=drive_link)
