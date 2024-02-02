@@ -14,7 +14,7 @@ Devido à grande diversidade e quantidade de faixas musicais presentes no Spotif
 - [Diagrama de Sequência](https://drive.google.com/file/d/1j15QaAU1hwOpF4Jn63hD-7gZP5g4pThX/view?usp=drive_link)
 - [Diagrama de Atividade, Screen Flow, Widget Tree](https://drive.google.com/file/d/1_MkzsEdjjqXb0BI5IbU5oRs-1Qa8A9L8/view?usp=drive_link)
 - [Descrição das Transições, Animações, Ações e Transições do Aplicativo](https://drive.google.com/file/d/1GyW51st0TkideowFFzCajP5gJQzKeAMh/view?usp=drive_link)
-- [Diagrama de Arquitetura e Widget Tree]
+- [Diagrama de Arquitetura e Widget Tree](https://drive.google.com/file/d/1zzxUB78X6n2y_1qWmE6zuNm8F-WV2eSj/view?usp=sharing)
 
 ## 📌 Visualização do projeto:
 
